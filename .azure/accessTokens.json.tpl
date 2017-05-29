@@ -1,0 +1,1 @@
+[{"servicePrincipalTenant": "${AZURE_AAD_TENANT_ID}", "servicePrincipalId": "${AZURE_AAD_CLIENT_ID}", "accessToken": "${AZURE_AAD_CLIENT_SECRET}"}]
